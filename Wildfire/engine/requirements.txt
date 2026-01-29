@@ -1,0 +1,8 @@
+crewai
+langgraph
+langchain
+torch
+rasterio
+numpy
+pandas
+requests
